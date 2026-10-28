@@ -1,6 +1,10 @@
-### Hi, I'm Piotr 👋
+<p align="center">
+  <img width="100%" src="assets/header.svg" alt="Piotr Wittig" />
+</p>
 
-I build mobile apps, web platforms and embedded things. Mostly Flutter, Next.js and Python.
+<p align="center">
+  <img src="assets/typing.svg" width="640" alt="I build mobile apps, web platforms and embedded things. Mostly Flutter, Next.js and Python." />
+</p>
 
 <p>
   <a href="https://github.com/KNI-PM-Szczecin/plan_pm"><img src="assets/planpm.svg" width="49.3%" alt="Plan PM" /></a>
@@ -27,6 +31,8 @@ I build mobile apps, web platforms and embedded things. Mostly Flutter, Next.js 
   <a href="https://github.com/Schoji/SoundNest"><img src="assets/soundnest.svg" width="49.3%" alt="SoundNest" /></a>
 </p>
 <p>
-  <a href="https://skillicons.dev"><img src="assets/stack.svg" width="66%" alt="Flutter, Dart, Next.js, React, TypeScript, Tailwind, Python, FastAPI, Supabase, C, Raspberry Pi, Arduino, Figma, Linux" /></a>
+  <a href="https://skillicons.dev"><img src="assets/stack.svg" width="66%" alt="Python, C, C++, C#, Rust, JavaScript, TypeScript, PHP, HTML, Dart, Flutter, React, Next.js, Tailwind, FastAPI, Supabase, Unity, Docker, Raspberry Pi, Arduino, Figma, Linux, Arch" /></a>
   <a href="https://piotrwittig.com"><img src="assets/site.svg" width="32.6%" alt="piotrwittig.com" /></a>
 </p>
+
+<img width="100%" src="assets/footer.svg" alt="" />
