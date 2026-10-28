@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="136" viewBox="0 0 420 136" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"><style>.s{opacity:0;animation:s 6s infinite}.s2{animation-delay:2s}.s3{animation-delay:4s}
+  @keyframes s{0%,33.2%{opacity:1}33.3%,100%{opacity:0}}
+  .bl{transform-box:fill-box;transform-origin:center;animation:bl 2s infinite}
+  @keyframes bl{0%,70%,80%,100%{transform:scaleY(1)}75%{transform:scaleY(.15)}}</style><rect x=".5" y=".5" width="419" height="135" rx="14" fill="#161b22" stroke="#30363d"/><defs><clipPath id="aleksy_tile"><rect width="104" height="104" rx="12"/></clipPath></defs><svg x="16" y="16" width="104" height="104" viewBox="0 0 104 104"><g clip-path="url(#aleksy_tile)"><rect width="104" height="104" fill="#0b1411"/>
+  
+  <rect x="8" y="30" width="88" height="44" rx="9" fill="#66c2a3"/>
+  <circle cx="24" cy="52" r="11" fill="#2d6f5a"/><circle cx="80" cy="52" r="11" fill="#2d6f5a"/>
+  <rect x="38" y="38" width="28" height="28" rx="3" fill="#000"/>
+  <g class="s"><rect class="bl" x="43" y="46" width="7" height="12" rx="3" fill="#7ee0ff"/><rect class="bl" x="54" y="46" width="7" height="12" rx="3" fill="#7ee0ff"/></g>
+  <g class="s s2" fill="none" stroke="#7ee0ff" stroke-width="2.5" stroke-linecap="round"><path d="M43 55 q3.5 -6 7 0"/><path d="M54 55 q3.5 -6 7 0"/></g>
+  <g class="s s3" fill="#7ee0ff"><rect x="43" y="53" width="7" height="2.5" rx="1"/><rect x="54" y="53" width="7" height="2.5" rx="1"/><rect x="58" y="41" width="4" height="1.5" fill="#ffd23f"/></g></g></svg><text x="140" y="44" fill="#e6edf3" font-size="18" font-weight="700">A.L.E.K.S.Y v2</text><text x="140" y="68" fill="#9da7b3" font-size="13">Polish voice assistant that answers in a</text><text x="140" y="86" fill="#9da7b3" font-size="13">friend's cloned voice.</text><rect x="140" y="100" width="58" height="20" rx="10" fill="#21262d"/><text x="169.0" y="114" text-anchor="middle" fill="#c9d1d9" font-size="11.5">Python</text><rect x="204" y="100" width="97" height="20" rx="10" fill="#21262d"/><text x="252.5" y="114" text-anchor="middle" fill="#c9d1d9" font-size="11.5">Raspberry Pi</text></svg>
